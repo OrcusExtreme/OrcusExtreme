@@ -59,7 +59,7 @@
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=OrcusExtreme&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="OrcusExtreme Streak" />
+    <img src="https://streak-stats.demolab.com?user=OrcusExtreme&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&count_private=true" alt="OrcusExtreme Streak" />
   </p>
 
 </div>
