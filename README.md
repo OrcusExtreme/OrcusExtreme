@@ -25,26 +25,30 @@
 
 ### 🔬 Research & Focus
 
-- **Deep Learning**: Neural network architectures, MLP modeling, and optimization (PyTorch, TensorFlow).
-- **Computer Vision**: Material recognition technology, sensor & camera calibration.
-- **Data Science**: Big Data competition analytics, geospatial data pipelines, and automation.
-- **Engineering**: High-performance asynchronous desktop utilities ([**ORCUS-Downloader**](https://github.com/OrcusExtreme/ORCUS-Downloader)).
+- **Deep Learning & Computer Vision**: Machining sensor signal analysis (PyTorch, STFT) and instance segmentation for machine tool monitoring (YOLO, OpenCV calibration).
+- **Data Engineering**: Manufacturing database architecture (STEP-NC, MySQL, SQLAlchemy).
+- **HMI & Industrial Systems**: Exploring industrial UI/UX and machine monitoring interfaces built with **C#**.
+- **Generative AI & LLMs**: Investigating large language model architectures, prompt engineering, and LLM-assisted workflows for engineering tasks.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+**Languages & Frameworks**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+**AI, Vision & Signal Processing**  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 
-</div>
+**Data Engineering & Web**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 ---
 
