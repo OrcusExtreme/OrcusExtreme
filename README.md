@@ -23,6 +23,8 @@
 
 - **Deep Learning & Computer Vision**: Machining sensor signal analysis (PyTorch, STFT) and instance segmentation for machine tool monitoring (YOLO, OpenCV calibration).
 - **Data Engineering**: Manufacturing database architecture (STEP-NC, MySQL, SQLAlchemy).
+
+### 🧑‍🎓 What I'm Learning
 - **HMI & Industrial Systems**: Exploring industrial UI/UX and machine monitoring interfaces built with **C#**.
 - **Generative AI & LLMs**: Investigating large language model architectures, prompt engineering, and LLM-assisted workflows for engineering tasks.
 
