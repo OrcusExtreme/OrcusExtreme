@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Typing Effect Banner -->
-  <a href="https://www.orcusextreme.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Standing+on+the+Border.;AI+%26+Deep+Learning+Researcher;PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Python+%E2%80%A2+Pandas" alt="Typing SVG" />
-  </a>
 
   <h1>ORCUS</h1>
   <p><em>“Standing on the Border”</em></p>
