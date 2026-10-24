@@ -29,10 +29,8 @@
 - **Generative AI & LLMs**: Investigating large language model architectures, prompt engineering, and LLM-assisted workflows for engineering tasks.
 
 ### 🏆 Award
-- ** KSPE 2026 Spring Conference Outstanding Presentation Award Co-Author(26SPP04-026)
-(KSPE 2026 한국정밀공학회 춘계학술대회 부문별 최우수논문상 공동저자(26SPP04-026)
-- ** 24th, 2026 National Rocket Pitch Competition Grand Prize
-(제24회 2026 전국 로켓피치 경진대회 대상)
+- **KSPE 2026 Spring Conference Outstanding Presentation Award Co-Author/KSPE 2026 한국정밀공학회 춘계학술대회 부문별 최우수논문상 공동저자(26SPP04-026)
+- **2026(24th) National Rocket Pitch Competition Grand Prize/제24회 2026 전국 로켓피치 경진대회 대상
 
 ---
 
